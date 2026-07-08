@@ -1,3 +1,4 @@
+HEAD
 # React Essentials Assignment
 
 This repository contains two mini React projects built as part of the React Essentials module, covering core concepts like components, props, state management, event handling, and conditional rendering.
@@ -44,3 +45,7 @@ npm run dev
 
 ## Live Link
 [deploy karne ke baad yahan link daalna]
+
+# react-essentials-assignment
+react-essentials-assignment
+ d54300e6fbffd9746955df098ac8e12bc8aa0cbb
