@@ -44,7 +44,8 @@ npm run dev
 ```
 
 ## Live Link
-[deploy karne ke baad yahan link daalna]
+
+https://react-essentials-assignments.netlify.app/
 
 # react-essentials-assignment
 react-essentials-assignment
